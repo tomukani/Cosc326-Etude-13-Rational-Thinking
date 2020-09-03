@@ -1,0 +1,3 @@
+/home/cshome/t/thunt/Cosc326/RationalThinking/Rationals/CMakeFiles/rebuild_cache.dir
+/home/cshome/t/thunt/Cosc326/RationalThinking/Rationals/CMakeFiles/edit_cache.dir
+/home/cshome/t/thunt/Cosc326/RationalThinking/Rationals/CMakeFiles/RationalThinking.dir
