@@ -1,11 +1,8 @@
 Thomas Hunt 4646221
 Joshua Mullin 2067221
 
-Hello
-Currently this submission contains a working Integer class , and our Rational can add values, and subtract values. Multiplication in theory should work but in practice is not. Our approach to solving fractional will be using our Integer operations to calculate the Rational Arithmetic shown in the link below.
 
-
-
+To run the program
 
 navigate to directory and type
 
